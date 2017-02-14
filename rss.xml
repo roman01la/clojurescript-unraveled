@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Розплутаний ClojureScript]]></title>
+        <description><![CDATA[Український переклад книги «ClojureScript Unraveled».]]></description>
+        <link>http://lambdabooks.github.io/clojurescript-unraveled</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 14 Feb 2017 20:48:20 GMT</lastBuildDate>
+        <atom:link href="http://lambdabooks.github.io/clojurescript-unraveled/rss.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Denys Dovhan]]></author>
+        <managingEditor><![CDATA[email@denysdovhan.com (Denys Dovhan)]]></managingEditor>
+        <webMaster><![CDATA[email@denysdovhan.com (Denys Dovhan)]]></webMaster>
+        <category><![CDATA[frontend]]></category>
+        <category><![CDATA[js]]></category>
+        <category><![CDATA[javascript]]></category>
+        <category><![CDATA[es6]]></category>
+        <category><![CDATA[es2015]]></category>
+        <category><![CDATA[ecmascript]]></category>
+        <item>
+            <title><![CDATA[Розплутаний ClojureScript]]></title>
+            <description><![CDATA[PDF
+ePub
+Mobi
+Build Status
+Twitter
+RSS
+Stars]]></description>
+            <link>http://lambdabooks.github.io/clojurescript-unraveled</link>
+            <guid isPermaLink="true">http://lambdabooks.github.io/clojurescript-unraveled</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+    </channel>
+</rss>
