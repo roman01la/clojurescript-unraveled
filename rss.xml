@@ -4,7 +4,7 @@
         <description><![CDATA[Український переклад книги «ClojureScript Unraveled».]]></description>
         <link>http://lambdabooks.github.io/clojurescript-unraveled</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Feb 2017 09:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2017 14:33:31 GMT</lastBuildDate>
         <atom:link href="http://lambdabooks.github.io/clojurescript-unraveled/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Denys Dovhan]]></author>
         <managingEditor><![CDATA[email@denysdovhan.com (Denys Dovhan)]]></managingEditor>
